@@ -1,0 +1,5 @@
+{
+  "attempt": 1,
+  "error": "找不到\"片单广场\"按钮，退出爬取",
+  "stack": "Error: 找不到\"片单广场\"按钮，退出爬取\n    at YoukuCrawler.getDramaList (F:\\yethyeth_workspace\\2025\\drama\\api\\crawler\\youku.ts:634:17)\n    at YoukuCrawler.execute (F:\\yethyeth_workspace\\2025\\drama\\api\\crawler\\base.ts:796:20)\n    at CrawlerManager.executeSingleTask (F:\\yethyeth_workspace\\2025\\drama\\api\\crawler\\index.ts:67:20)\n    at executeCrawlerTask (F:\\yethyeth_workspace\\2025\\drama\\api\\routes\\crawler.ts:231:20)"
+}

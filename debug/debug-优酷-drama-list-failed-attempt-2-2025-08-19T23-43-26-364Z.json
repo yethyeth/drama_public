@@ -1,0 +1,5 @@
+{
+  "attempt": 2,
+  "error": "无法突破反爬机制，请稍后重试",
+  "stack": "Error: 无法突破反爬机制，请稍后重试\n    at YoukuCrawler.getDramaList (F:\\yethyeth_workspace\\2025\\drama\\api\\crawler\\youku.ts:547:17)\n    at testYoukuCrawler (F:\\yethyeth_workspace\\2025\\drama\\api\\test-youku.ts:10:20)"
+}

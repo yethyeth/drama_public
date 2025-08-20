@@ -1,0 +1,5 @@
+{
+  "attempt": 1,
+  "error": "this.simulateUserScrolling is not a function",
+  "stack": "TypeError: this.simulateUserScrolling is not a function\n    at YoukuCrawler.getDramaList (F:\\yethyeth_workspace\\2025\\drama\\api\\crawler\\youku.ts:648:20)\n    at testYoukuCrawler (F:\\yethyeth_workspace\\2025\\drama\\api\\test-youku.ts:10:20)"
+}

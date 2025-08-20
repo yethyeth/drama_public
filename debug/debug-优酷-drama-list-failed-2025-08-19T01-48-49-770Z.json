@@ -1,0 +1,14 @@
+{
+  "url": "https://www.youku.com/ku/webduanju",
+  "selectors": [
+    ".yk-col3",
+    ".item",
+    ".video-item",
+    ".drama-item",
+    ".p-thumb",
+    ".v-thumb"
+  ],
+  "pageTitle": "优酷 - 为好内容全力以赴",
+  "foundItems": false,
+  "dramasCount": 0
+}

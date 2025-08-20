@@ -1,0 +1,28 @@
+{
+  "url": "https://www.youku.com/channel/webdrama",
+  "selectors": [
+    ".yk-col3",
+    ".item",
+    ".video-item",
+    ".drama-item",
+    ".p-thumb",
+    ".v-thumb",
+    ".pack-ykpack",
+    ".yk-pack",
+    ".pack-packcover",
+    ".packcover",
+    ".pack-packinfo",
+    ".packinfo",
+    ".yk-pack-cover",
+    ".yk-pack-info",
+    "[data-spm-anchor-id]",
+    ".list-item",
+    ".grid-item",
+    ".card-item",
+    ".video-card",
+    ".drama-card"
+  ],
+  "pageTitle": "优酷 - 为好内容全力以赴",
+  "foundItems": true,
+  "dramasCount": 0
+}

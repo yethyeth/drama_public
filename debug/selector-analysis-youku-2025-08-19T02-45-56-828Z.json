@@ -1,0 +1,377 @@
+{
+  "platform": "youku",
+  "url": "https://www.youku.com/",
+  "timestamp": "2025-08-19T02:45:37.653Z",
+  "pageInfo": {
+    "finalUrl": "https://www.youku.com/ku/webhome",
+    "title": "优酷 - 为好内容全力以赴",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "viewport": {
+      "width": 1953,
+      "height": 1156
+    }
+  },
+  "selectorAnalysis": [
+    {
+      "selector": ".video-item",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".drama-item",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".movie-item",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".content-item",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".list-item",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".card-item",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".grid-item",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".item",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".video-card",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".drama-card",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".movie-card",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".content-card",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": "[data-video-id]",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": "[data-item-id]",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": "[data-aweme-id]",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": "[data-vid]",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": "[data-album-id]",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": "[data-movie-id]",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": "[data-spm-anchor-id]",
+      "count": 117,
+      "found": true,
+      "samples": [
+        {
+          "index": 0,
+          "tagName": "a",
+          "className": "filter_filter_icon aplus_exp_auto aplus_clk_auto",
+          "id": "",
+          "possibleTitles": [
+            "筛选"
+          ],
+          "possibleLinks": [
+            "#"
+          ],
+          "possibleImages": [
+            "https://img.alicdn.com/imgextra/i3/O1CN01E71iNM29PXJkAdEx1_!!6000000008060-2-tps-48-48.png"
+          ],
+          "textContent": "筛选",
+          "hasChildren": true,
+          "childrenCount": 2
+        },
+        {
+          "index": 1,
+          "tagName": "a",
+          "className": "youku_vip_pay_btn aplus_exp_auto  crmvip_vip_buy_button ",
+          "id": "",
+          "possibleTitles": [
+            "会员特惠"
+          ],
+          "possibleLinks": [
+            "#"
+          ],
+          "possibleImages": [
+            "https://gw.alicdn.com/imgextra/i2/O1CN01G2pBlc1jH83k0Uw4y_!!6000000004522-2-tps-72-72.png"
+          ],
+          "textContent": "会员特惠",
+          "hasChildren": true,
+          "childrenCount": 2
+        },
+        {
+          "index": 2,
+          "tagName": "a",
+          "className": "iconfontheader iconkehuduan-main-24 useiku_iku_icon aplus_exp_auto",
+          "id": "",
+          "possibleTitles": [],
+          "possibleLinks": [
+            "#"
+          ],
+          "possibleImages": [],
+          "textContent": "",
+          "hasChildren": false,
+          "childrenCount": 0
+        }
+      ]
+    },
+    {
+      "selector": "[data-spm]",
+      "count": 138,
+      "found": true,
+      "samples": [
+        {
+          "index": 0,
+          "tagName": "body",
+          "className": "",
+          "id": "",
+          "possibleTitles": [
+            "小说改编人气古装剧来袭！铭记历史 缅怀先烈都市剧场·热剧播不停奇幻国漫热播中新热国产动画电影央视精品历史纪录片",
+            "\nwith(document)with(body)with(insertBefore(createElement(\"script\"),firstChild))setAttribute(\"exparam"
+          ],
+          "possibleLinks": [
+            "#",
+            "#"
+          ],
+          "possibleImages": [
+            "https://img.alicdn.com/imgextra/i3/O1CN01E71iNM29PXJkAdEx1_!!6000000008060-2-tps-48-48.png",
+            "https://liangcang-material.alicdn.com/prod/upload/49f39ff019334d2b9338384c1450258e.webp.jpg?x-oss-process=image/resize,w_352/interlace,1/quality,Q_70"
+          ],
+          "textContent": "with(document)with(body)with(insertBefore(createElement(\"script\"),firstChild))setAttribute(\"exparams\",\"category=&userid=&aplus&yunid=&&trid=2130733017555715410784311e8df9&asid=AQAAAABV5aNoQpK2PgAAAAD",
+          "hasChildren": true,
+          "childrenCount": 19
+        },
+        {
+          "index": 1,
+          "tagName": "div",
+          "className": "search_search_box ",
+          "id": "",
+          "possibleTitles": [],
+          "possibleLinks": [],
+          "possibleImages": [],
+          "textContent": "",
+          "hasChildren": true,
+          "childrenCount": 2
+        },
+        {
+          "index": 2,
+          "tagName": "div",
+          "className": "filter_filter_box",
+          "id": "",
+          "possibleTitles": [
+            "筛选"
+          ],
+          "possibleLinks": [
+            "#",
+            "#"
+          ],
+          "possibleImages": [
+            "https://img.alicdn.com/imgextra/i3/O1CN01E71iNM29PXJkAdEx1_!!6000000008060-2-tps-48-48.png"
+          ],
+          "textContent": "筛选",
+          "hasChildren": true,
+          "childrenCount": 1
+        }
+      ]
+    },
+    {
+      "selector": ".p-thumb",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".p-link",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".video-layer",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".yk-col4",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".yk-pack",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".pack-ykpack4",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": ".yk-pack4",
+      "count": 0,
+      "found": false,
+      "samples": []
+    },
+    {
+      "selector": "[data-spm-anchor-id]",
+      "count": 117,
+      "found": true,
+      "samples": [
+        {
+          "index": 0,
+          "tagName": "a",
+          "className": "filter_filter_icon aplus_exp_auto aplus_clk_auto",
+          "id": "",
+          "possibleTitles": [
+            "筛选"
+          ],
+          "possibleLinks": [
+            "#"
+          ],
+          "possibleImages": [
+            "https://img.alicdn.com/imgextra/i3/O1CN01E71iNM29PXJkAdEx1_!!6000000008060-2-tps-48-48.png"
+          ],
+          "textContent": "筛选",
+          "hasChildren": true,
+          "childrenCount": 2
+        },
+        {
+          "index": 1,
+          "tagName": "a",
+          "className": "youku_vip_pay_btn aplus_exp_auto  crmvip_vip_buy_button ",
+          "id": "",
+          "possibleTitles": [
+            "会员特惠"
+          ],
+          "possibleLinks": [
+            "#"
+          ],
+          "possibleImages": [
+            "https://gw.alicdn.com/imgextra/i2/O1CN01G2pBlc1jH83k0Uw4y_!!6000000004522-2-tps-72-72.png"
+          ],
+          "textContent": "会员特惠",
+          "hasChildren": true,
+          "childrenCount": 2
+        },
+        {
+          "index": 2,
+          "tagName": "a",
+          "className": "iconfontheader iconkehuduan-main-24 useiku_iku_icon aplus_exp_auto",
+          "id": "",
+          "possibleTitles": [],
+          "possibleLinks": [
+            "#"
+          ],
+          "possibleImages": [],
+          "textContent": "",
+          "hasChildren": false,
+          "childrenCount": 0
+        }
+      ]
+    },
+    {
+      "selector": ".video-box",
+      "count": 0,
+      "found": false,
+      "samples": []
+    }
+  ],
+  "contentAnalysis": {
+    "htmlLength": 991635,
+    "totalElements": 1306,
+    "hasJavaScript": true,
+    "hasReactApp": false,
+    "hasVueApp": false,
+    "hasAngularApp": false,
+    "containsVideoKeywords": true,
+    "containsDataAttributes": true,
+    "scriptTags": 29,
+    "styleTags": 7,
+    "linkTags": 2,
+    "imageCount": 160,
+    "linkCount": 113
+  },
+  "recommendations": [
+    {
+      "selector": "[data-spm-anchor-id]",
+      "count": 117,
+      "reason": "包含标题信息，包含链接信息，包含图片信息"
+    },
+    {
+      "selector": "[data-spm-anchor-id]",
+      "count": 117,
+      "reason": "包含标题信息，包含链接信息，包含图片信息"
+    },
+    {
+      "selector": "[data-spm]",
+      "count": 138,
+      "reason": "包含标题信息，包含链接信息，包含图片信息"
+    }
+  ]
+}

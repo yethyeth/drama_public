@@ -1,0 +1,30 @@
+{
+  "url": "https://list.youku.com/category/show/c_96.html",
+  "selectors": [
+    ".yk-col3 .p-thumb",
+    ".yk-col4 .p-thumb",
+    ".p-thumb",
+    ".v-thumb",
+    ".pack-ykpack",
+    ".yk-pack",
+    ".video-item",
+    ".drama-item",
+    ".item",
+    ".list-item",
+    ".grid-item",
+    ".card-item",
+    ".video-card",
+    ".drama-card",
+    "[data-spm-anchor-id]",
+    "[data-spm]",
+    ".pack-packcover",
+    ".packcover",
+    ".pack-packinfo",
+    ".packinfo",
+    ".yk-pack-cover",
+    ".yk-pack-info"
+  ],
+  "pageTitle": "验证码校验",
+  "foundItems": false,
+  "dramasCount": 0
+}

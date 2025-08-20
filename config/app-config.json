@@ -1,0 +1,34 @@
+{
+  "crawler": {
+    "maxConcurrentTasks": 5,
+    "requestDelay": 1000,
+    "retryAttempts": 3,
+    "timeout": 30000,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "headless": false,
+    "antiDetection": {
+      "randomDelay": true,
+      "rotateUserAgent": false,
+      "enableCookies": true,
+      "respectRobotsTxt": true
+    }
+  },
+  "database": {
+    "autoBackup": true,
+    "backupInterval": 24,
+    "maxBackups": 7,
+    "compressionEnabled": true
+  },
+  "notifications": {
+    "emailEnabled": false,
+    "webhookEnabled": false,
+    "webhookUrl": ""
+  },
+  "ports": {
+    "frontendPort": 5173,
+    "backendPort": 3004,
+    "autoStart": true,
+    "enableHttps": false,
+    "corsEnabled": true
+  }
+}

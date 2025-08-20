@@ -1,0 +1,31 @@
+{
+  "url": "https://v.qq.com/channel/mini_drama",
+  "selectors": [
+    ".list_item",
+    ".mod_figure",
+    ".figure_pic",
+    ".mod_list_pic",
+    ".list_pic",
+    "[data-v-]",
+    ".video-card",
+    ".drama-card",
+    ".content-card",
+    ".item",
+    ".video-item",
+    ".drama-item",
+    ".card-item",
+    ".card",
+    ".list-item",
+    ".grid-item",
+    "[data-float=\"drama\"]",
+    "[data-type=\"drama\"]",
+    "[data-vid]",
+    "[data-id]",
+    ".container .item",
+    ".content .item",
+    ".main .item"
+  ],
+  "pageTitle": "短剧 腾讯视频-中国领先的在线视频媒体平台,海量高清视频在线观看",
+  "foundItems": false,
+  "dramasCount": 0
+}

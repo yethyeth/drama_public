@@ -1,0 +1,23 @@
+{
+  "url": "https://www.youku.com/ku/webduanju",
+  "selectors": [
+    ".yk-col3 .p-thumb[href*=\"show\"]",
+    ".yk-col4 .p-thumb[href*=\"show\"]",
+    ".p-thumb[href*=\"show\"]",
+    ".show-item",
+    ".drama-item",
+    ".video-item",
+    ".list-item .p-thumb",
+    ".grid-item .p-thumb",
+    ".card-item .p-thumb",
+    "[data-spm-anchor-id] .p-thumb",
+    "[data-spm-anchor-id][href*=\"show\"]",
+    ".yk-pack .p-thumb",
+    ".pack-ykpack .p-thumb",
+    ".v-thumb[href*=\"show\"]",
+    "[data-spm-anchor-id]"
+  ],
+  "pageTitle": "优酷 - 为好内容全力以赴",
+  "foundItems": true,
+  "dramasCount": 0
+}

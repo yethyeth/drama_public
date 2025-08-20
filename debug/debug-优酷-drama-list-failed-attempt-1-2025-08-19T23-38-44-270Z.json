@@ -1,0 +1,5 @@
+{
+  "attempt": 1,
+  "error": "this.page.setViewport is not a function",
+  "stack": "TypeError: this.page.setViewport is not a function\n    at YoukuCrawler.safeGoto (F:\\yethyeth_workspace\\2025\\drama\\api\\crawler\\youku.ts:46:23)\n    at YoukuCrawler.getDramaList (F:\\yethyeth_workspace\\2025\\drama\\api\\crawler\\youku.ts:527:9)\n    at testYoukuCrawler (F:\\yethyeth_workspace\\2025\\drama\\api\\test-youku.ts:10:20)"
+}

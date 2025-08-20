@@ -1,0 +1,5 @@
+{
+  "attempt": 2,
+  "error": "页面未初始化",
+  "stack": "Error: 页面未初始化\n    at YoukuCrawler.safeGoto (F:\\yethyeth_workspace\\2025\\drama\\api\\crawler\\youku.ts:17:13)\n    at YoukuCrawler.getDramaList (F:\\yethyeth_workspace\\2025\\drama\\api\\crawler\\youku.ts:524:20)\n    at testYoukuCrawler (F:\\yethyeth_workspace\\2025\\drama\\api\\test-youku.ts:10:20)"
+}

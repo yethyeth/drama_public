@@ -1,0 +1,5 @@
+{
+  "attempt": 2,
+  "error": "waitUntil: expected one of (load|domcontentloaded|networkidle|commit)",
+  "stack": "Error: waitUntil: expected one of (load|domcontentloaded|networkidle|commit)\n    at verifyLoadState (F:\\yethyeth_workspace\\2025\\drama\\node_modules\\.pnpm\\playwright-core@1.54.2\\node_modules\\playwright-core\\lib\\client\\frame.js:397:11)\n    at Page.reload (F:\\yethyeth_workspace\\2025\\drama\\node_modules\\.pnpm\\playwright-core@1.54.2\\node_modules\\playwright-core\\lib\\client\\page.js:280:56)\n    at YoukuCrawler.getDramaList (F:\\yethyeth_workspace\\2025\\drama\\api\\crawler\\youku.ts:542:26)\n    at testYoukuCrawler (F:\\yethyeth_workspace\\2025\\drama\\api\\test-youku.ts:10:20)"
+}
