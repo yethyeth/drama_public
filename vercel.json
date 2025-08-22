@@ -2,7 +2,7 @@
   "buildCommand": "npm run build",
   "functions": {
     "api/**/*.ts": {
-      "runtime": "nodejs@18.x"
+      "runtime": "nodejs18.x"
     }
   },
   "rewrites": [
